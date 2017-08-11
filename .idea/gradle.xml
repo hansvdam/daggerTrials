@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/daggerjava" />
             <option value="$PROJECT_DIR$/gamedaggerexample" />
+            <option value="$PROJECT_DIR$/vogellaexample" />
+            <option value="$PROJECT_DIR$/vogellaexamplewithtest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

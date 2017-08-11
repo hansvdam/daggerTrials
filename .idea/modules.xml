@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/daggerjava/daggerjava.iml" filepath="$PROJECT_DIR$/daggerjava/daggerjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/gamedaggerexample/gamedaggerexample.iml" filepath="$PROJECT_DIR$/gamedaggerexample/gamedaggerexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vogellaexample/vogellaexample.iml" filepath="$PROJECT_DIR$/vogellaexample/vogellaexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vogellaexamplewithtest/vogellaexamplewithtest.iml" filepath="$PROJECT_DIR$/vogellaexamplewithtest/vogellaexamplewithtest.iml" />
     </modules>
   </component>
 </project>

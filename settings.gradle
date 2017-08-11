@@ -1,1 +1,1 @@
-include ':app', ':daggerjava', ':gamedaggerexample'
+include ':app', ':daggerjava', ':gamedaggerexample', ':vogellaexample', ':vogellaexamplewithtest'
