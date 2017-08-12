@@ -1,10 +1,14 @@
 package com.example;
 
+import org.junit.Rule;
+import org.junit.Test;
+
 public class ImportantClassTest {
 
 public class MainServiceTest {
 
-    @Rule public MockitoRule mockitoRule = MockitoJUnit.rule();
+    @Rule
+    public MockitoRule mockitoRule = MockitoJUnit.rule();
 
     @Mock MyRestService restService;
 

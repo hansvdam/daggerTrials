@@ -57,3 +57,27 @@ b
 2vogellaexample/src/main/java/com/example/Main.java,7/8/78ff705cc42557b7299f5b9c0c9d4d52bfed5dd7
 i
 9vogellaexample/src/main/java/com/example/MyComponent.java,b/c/bc782ae79cb46e689a4f4cfcc8752e870502da79
+Å
+Qvogellaexample/build/generated/source/apt/main/com/example/DaggerMyComponent.java,c/0/c0ed7ccc3077404b77bfb86a5f92179cef820da0
+{
+Kdaggerjava/build/generated/source/apt/main/coffee/Thermosiphon_Factory.java,e/a/eafdec5c15f100b2163871c4474f13e119ad924a
+i
+9app/src/test/java/com/hoi/daggertest/ExampleUnitTest.java,f/1/f10e1ddead29416da131ebf81840755c4f90fb6c
+d
+4app/src/main/java/com/hoi/daggertest/NetworkApi.java,0/0/00f30cd0a05d495697ab4874e69d08778e4f1514
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+t
+Dvogellaexamplewithtest/src/main/java/com/example/ImportantClass.java,5/2/528e6c49675a7f6e26fdbd2d23b01129a6439294
+S
+#vogellaexamplewithtest/build.gradle,f/f/ff3d064b753119431d04426b3984a9d406daba2a
+x
+Hvogellaexamplewithtest/src/test/java/com/example/ImportantClassTest.java,5/4/544466cbf11670181f1a1ee59ab7ecc36470493c
+g
+7app/src/main/java/com/hoi/daggertest/MyApplication.java,1/7/1721fee6704bc28d8d456ae354c91e148fe21fb8
+m
+=app/src/main/java/com/hoi/daggertest/MyApplicationModule.java,8/f/8ffb9d75a6687b6b76a1ace68d354dae0ca9707d
+p
+@app/src/main/java/com/hoi/daggertest/MyApplicationComponent.java,2/b/2b8e3d39714878dcf143cabf142b044a048a037f

@@ -1,6 +1,12 @@
 package com.hoi.daggertest;
 
+import android.app.Activity;
 import android.app.Application;
+
+import javax.inject.Inject;
+
+import dagger.android.DispatchingAndroidInjector;
+import dagger.android.HasActivityInjector;
 
 public class MyApplication extends Application implements HasActivityInjector {
     @Inject
